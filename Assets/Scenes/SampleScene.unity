@@ -308,7 +308,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 858819474}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.03, z: 0.07}
+  m_LocalPosition: {x: 1.79, y: 1.16, z: -2.47}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -415,6 +415,128 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mouseSensitivity: 80
   playerBody: {fileID: 2143673391}
+--- !u!1001 &1019827393
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000010649612724, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_Name
+      value: Metal Crate Decimation Click Bang
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010649612724, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.044465065
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.2625002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.7926927
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013621572282, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 67fcef8b07a8b4712ad5059bca979dcc, type: 3}
+--- !u!1001 &1177029345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000010726408666, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_Name
+      value: Pickle Barrel Decimation Click
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010726408666, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.7446055
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40073538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.2789898
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013747481850, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 097497989d3b045599b5370ee0e8d414, type: 3}
 --- !u!1 &1290863642
 GameObject:
   m_ObjectHideFlags: 0
@@ -578,7 +700,38 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1404574833
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1404574834}
+  m_Layer: 0
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1404574834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1404574833}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.5, z: -0.08}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2143673391}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2114589999
 GameObject:
@@ -592,7 +745,7 @@ GameObject:
   - component: {fileID: 2114590002}
   - component: {fileID: 2114590001}
   - component: {fileID: 2114590000}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -676,7 +829,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2143673390
 GameObject:
@@ -705,14 +858,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2143673390}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 0, y: 0.98, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 858819478}
   - {fileID: 963194228}
+  - {fileID: 1404574834}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!143 &2143673393
 CharacterController:
@@ -787,3 +941,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterController: {fileID: 2143673393}
+  speed: 10
+  gravity: -9.81
+  groundCheck: {fileID: 1404574834}
+  sphereRadius: 0.3
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 64
+  jumpHeight: 3
